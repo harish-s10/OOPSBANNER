@@ -1,6 +1,5 @@
-package oop.banner;
 
-public class Oopbanner {
+public class OopsBanner2 {
 
  public static void main(String[] args) {
   System.out.println(" ***** ***** ***** ***** ");
